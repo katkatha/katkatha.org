@@ -35,3 +35,5 @@ Kutumb Foundation and Manzil. (April, 2008)
 -  Intensive Bunraku Workshop (2016) 
  - Intensive Shadow Workshop (2017) 
 - Intensive Table top and Storytelling with puppets workshop – Ongoing 
+
+{% include splitimage.html url1="/images/training/master02.jpg" url2="/images/training/master01.jpg" caption="We have a small room available on studio property for visiting artists." %} 
