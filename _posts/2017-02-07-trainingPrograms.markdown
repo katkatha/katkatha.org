@@ -36,4 +36,5 @@ Kutumb Foundation and Manzil. (April, 2008)
  - Intensive Shadow Workshop (2017) 
 - Intensive Table top and Storytelling with puppets workshop – Ongoing 
 
+
  {% include image.html url="/images/training/Sep2019Workshop.jpg" caption="Intensive Table top and Storytelling with puppets workshop." %}
