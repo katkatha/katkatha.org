@@ -7,6 +7,7 @@ categories: articles
 
 <h3>Training and Internships</h3>
 
+
 Katkatha provides professional puppetry training and is one of our main focuses. These are not just one time short expenses but long term sustained training that will create professional puppeteers.
 
 Artists bring various encounters with their art forms and systems of puppetry, new techniques above all, these become exchanges of ideas, academia and technical knowhow. The most valuable result of our internships has been the long term relationships built with puppeteers and artists across fields and regions.
