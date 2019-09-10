@@ -7,7 +7,7 @@ categories: articles
 
 <h3>Training Programs</h3>
 
-<h4>Training Programs for Youth creating new puppeteers – </h4>
+<h4>Training Programs for Youth creating new puppeteers</h4>
 
 Kutumb Foundation and Manzil. (April, 2008)
 
@@ -29,7 +29,7 @@ Kutumb Foundation and Manzil. (April, 2008)
 
 - Intensive Bunraku Workshop (2016) 
 - Intensive Shadow Workshop (2017) 
-- Intensive Table top and Storytelling with puppets workshop – Ongoing 
+- Intensive Table top and Storytelling with puppets workshop â€“ Ongoing 
 
  {% include image.html url="/images/training/Sep2019Workshop.jpeg" caption="Intensive Table top and Storytelling with puppets workshop." %}
  
