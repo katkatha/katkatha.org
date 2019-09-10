@@ -37,4 +37,4 @@ Kutumb Foundation and Manzil. (April, 2008)
 - Intensive Table top and Storytelling with puppets workshop – Ongoing 
 
 
- {% include imageright.html url="/images/training/Sep2019Workshop.jpg" caption="Intensive Table top and Storytelling with puppets workshop." %}
+ {% include image.html url="/images/training/Sep2019Workshop.jpeg" caption="Intensive Table top and Storytelling with puppets workshop." %}
