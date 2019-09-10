@@ -6,13 +6,10 @@ categories: articles
 ---
 
 <h3>Training Programs</h3>
-<br>
 
 <h4>Training Programs for Youth creating new puppeteers – </h4>
 
-
 Kutumb Foundation and Manzil. (April, 2008)
-
 
 <h4> Internship Program  </h4>
 
@@ -27,7 +24,6 @@ Kutumb Foundation and Manzil. (April, 2008)
 - Direction and Production-with  Sandbox Collective in Bangalore culminating in the performance
 
 - Training for Theatre Schools- Bangalore NSD Workshop (May, 2013) 
-
 
 <h4> Annual Intensive Training Projects  </h4>
 
