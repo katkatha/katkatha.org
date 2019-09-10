@@ -6,7 +6,7 @@ categories: articles
 ---
 
 <h3>Training Programs</h3>
-<br>
+
 
 <h4>Training Programs for Youth creating new puppeteers – </h4>
 
