@@ -4,9 +4,9 @@ title:  "The Space"
 date:   2017-02-06
 categories: articles
 ---
-
+<br>
 <h1>The Space</h1>
-
+<br>
 <h4>2016 was a special year for us. We turned 18 and we got our own new space to further explore our puppetry encounters. Our space is at the Southern border of Delhi, 12 kilmoeters from the city centre. The population around is dense and semi urban.
 
 <br>
@@ -14,6 +14,7 @@ categories: articles
 {% include coverimage.html url="/images/studio/painting.JPG" caption="Our studio getting a make-over in 2016." %} 
 
 <br>
+
 These are the programs the space is currently supporting or planning to support
 <br>
 
