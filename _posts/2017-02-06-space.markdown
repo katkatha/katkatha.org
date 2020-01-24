@@ -15,7 +15,7 @@ These are the programs the space is currently supporting or planning to support
 
 <br>
 
- <h3>Mentorship Program</h3> 
+ <h3>Mentorship Program -</h3> 
  
  <br>
  
@@ -23,7 +23,7 @@ These are the programs the space is currently supporting or planning to support
  
  <br>
 
- <h3>Support to new puppeteers</h3> 
+ <h3>Support to new puppeteers -</h3> 
 
 <br>
  
@@ -31,7 +31,7 @@ These are the programs the space is currently supporting or planning to support
  
  <br>
 
- <h3>Shadow Internships</h3>
+ <h3>Shadow Internships -</h3>
  
  <br>
  
@@ -39,7 +39,7 @@ These are the programs the space is currently supporting or planning to support
 
 <br>
 
- <h3>School Program</h3>
+ <h3>School Program -</h3>
  
  <br>
  
@@ -47,7 +47,7 @@ These are the programs the space is currently supporting or planning to support
 
 <br>
 
-<h3>Puppets for teachers</h3>
+<h3>Puppets for teachers -</h3>
 
 <br>
 
@@ -55,17 +55,18 @@ These are the programs the space is currently supporting or planning to support
 
 <br>
 
-<h3>Community puppet program</h3> 
+<h3>Community puppet program -</h3> 
 
-<br.
+<br>
 
 <h4>Since 2016 we began a puppet program for our neighbourhood. We are located on the fringes of Delhi where we have a mix of the urban poor, migrant labour, a large part of the cities labour force.</h4>
 
 <br>
 
-<h4>-	**The Sunday Puppets Club** - This is a 2 hour children’s program by artists at our studio for children of the neighbourhood. Here they learn to make puppets, tell stories, to paint, sculpt and move. They also have a small library of books and now we are building our animation library.
--	**The window to puppet theatre** - Our rehearsal room window overlooks the alleyway or thoroughfare used by the entire community. When we are rehearsing we leave the window open and often people stop to watch. We liked this curiosity very much and so we are now building a peep show in our window. People can actually peep in and see puppets, shadows, miniatures or something else. 
--	**My <i>Gulli</i>** - <i>Gulli</i> is a Hindi word which means an alleyway. Our alleyway has been a drug users’ haven for a long time. We are planning to reclaim it by painting a community mural, together with the children so that the wall belongs to the children and the entire community. The peep show window is in this wall.</h4>
+<h4>-	**The Sunday Puppets Club** - This is a 2 hour children’s program by artists at our studio for children of the neighbourhood. Here they learn to make puppets, tell stories, to paint, sculpt and move. They also have a small library of books and now we are building our animation library.</h4>
+
+<h4>-	**The window to puppet theatre** - Our rehearsal room window overlooks the alleyway or thoroughfare used by the entire community. When we are rehearsing we leave the window open and often people stop to watch. We liked this curiosity very much and so we are now building a peep show in our window. People can actually peep in and see puppets, shadows, miniatures or something else.</h4> 
+
 
 {% include imageright.html url="/images/studio/02.jpg" caption="The main rehearsal and performance area." %} 
 {% include image.html url="/images/studio/01.jpg" caption="Our puppet and prop-making shop." %} 
