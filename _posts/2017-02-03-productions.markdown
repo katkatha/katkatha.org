@@ -7,7 +7,7 @@ categories: articles
 
 <h1>Productions</h1>
 
-<h2>ANECDOTES AND ALLEGORIES (2010) by Gulbadan Begum</h2>
+<h3>ANECDOTES AND ALLEGORIES (2010) by Gulbadan Begum</h3>
 
 <h4>Created with support from the India Foundation for the Arts, Bangalore, <i>Anecdotes and Allegories</i> is a historical docu-drama with  Puppets. 
 
