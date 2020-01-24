@@ -31,82 +31,67 @@ The show is a journey of a little blue planet earth who in the show is literally
 
 Watch <i>Little Blue Planet</i> <a href="https://www.youtube.com/watch?v=rgQWl_Fuf18" target="_blank">here</a>.
 
-<h4>ABOUT RAM (2006)</h4>
+<h3>ABOUT RAM (2006)</h3>
 
-About Ram was created with a performance grant from the India Foundation for the Arts and in collaboration with animator Vishal Dar. It is an experimental theatrical piece using excerpts from the Bhavbhuti Ramayana and told through animation, projected images, dance, masks and puppets. 
+<h4>About Ram was created with a performance grant from the India Foundation for the Arts and in collaboration with animator Vishal Dar. It is an experimental theatrical piece using excerpts from the Bhavbhuti Ramayana and told through animation, projected images, dance, masks and puppets. 
 
 As the name suggests, the performance is about Ram, the prince who is sent on a long journey far away from his home when he is exiled by his father along with his wife Sita and brother Lakshman. Sita is kidnapped by Ravan the king of Lanka and kept prisoner. As Ram sits by the ocean looking at Lanka across its vastness his life flashes by, he feels powerless and dejected as he longs to fly across the ocean to his beloved Sita. The puppeteers help him by projecting his desires into the mask of the super hero Hanuman which attaches itself to Rams face, at one turning him into a super powerful simian who leaps across the ocean and reaches Sita.
 
-In this journey and the bloody war that follows with Ravan, Ram becomes a king, forced to choose between the duty of the throne and the love of his wife.He rules alone for the next 10,000 years.
+In this journey and the bloody war that follows with Ravan, Ram becomes a king, forced to choose between the duty of the throne and the love of his wife.He rules alone for the next 10,000 years.</h4>
 
 Watch <i>About Ram</i> <a href="https://www.youtube.com/watch?v=r6AaVMjM9jA" target="_blank">here</a>.
 
-<h4>LIFE IN PROGRESS</h4>
+<h3>LIFE IN PROGRESS</h3>
 
-Old newspapers and trash, a rag picker, creepy crawlies, creatures from nightmares, dreamscapes, nebulous faces, dismembered hands, plastic bottles, curious people, devouring mouth, grabbing hands, running, masking, unmasking and more trash...
+<h4>Old newspapers and trash, a rag picker, creepy crawlies, creatures from nightmares, dreamscapes, nebulous faces, dismembered hands, plastic bottles, curious people, devouring mouth, grabbing hands, running, masking, unmasking and more trash...
 
-life in progress or is it progress?
+life in progress or is it progress?</h4>
 
-<h4>MAHABHARATA</h4>
+<h3>MAHABHARATA</h3>
 
-Our Mahabharata explores the inner dilemma and back stories of 14 characters in the play. Each character in the Mahabharata is an archetype whose single minded and unquestioning loyalty to one belief leads to the inevitable conflict. Was there ever a moment when each of these human beings by making a choice, the choice of letting go, could have averted the war? 
+<h4>Mahabharata explores the inner dilemma and back stories of 14 characters in the play. Each character in the Mahabharata is an archetype whose single minded and unquestioning loyalty to one belief leads to the inevitable conflict. Was there ever a moment when each of these human beings by making a choice, the choice of letting go, could have averted the war?</h4>
 
 Watch <i>Mahabharata</i> <a href="https://www.youtube.com/watch?v=GKa8JQHnlvQ" target="_blank">here</a>.
 
-<h4>DINOSAUR</h4>
+<h3>DINOSAUR</h3>
 
-The story is about a T Rex egg that gets separated from the next. The baby dinosaur that hatches does not know he is a T Rex. He starts to desperately look for his mother. Instead he lands up in the midst of a hungry Raptor pack. The oldest raptor and he become friends but the other raptors still want to eat him up. Time and again the old raptor saves him but then there is a huge volcanic eruption. Will the old raptor be able to save the little T Rex baby again?
+<h4>The story is about a T Rex egg that gets separated from the next. The baby dinosaur that hatches does not know he is a T Rex. He starts to desperately look for his mother. Instead he lands up in the midst of a hungry Raptor pack. The oldest raptor and he become friends but the other raptors still want to eat him up. Time and again the old raptor saves him but then there is a huge volcanic eruption. Will the old raptor be able to save the little T Rex baby again?</h4>
 
 Watch <i>Dinosaur</i> <a href="https://www.youtube.com/watch?v=AlAALy1h6RE" target="_blank">here</a>.
 
-<h4>DINOSAUR OUTDOOR SHOW</h4>
-This show also has a street version, where a bunch of palentologists cordon off a public space, they then bring out the skeleton of a T Rex and start detailed thesis about dinosaurs to the public when suddenly the T Rex comes alive!
+<h3>DINOSAUR OUTDOOR SHOW</h3>
+
+<h4>This show also has a street version, where a bunch of palentologists cordon off a public space, they then bring out the skeleton of a T Rex and start detailed thesis about dinosaurs to the public when suddenly the T Rex comes alive!</h4>
 
 Watch <i>Dinosaur Outdoor Show</i> <a href="https://www.youtube.com/watch?v=fdD1fWdA-GI" target="_blank">here</a>.
 
 <br>
-<h3>Past Productions</h3>
+<h2>Past Productions</h2>
 <br>
-<h4>THE MAGIC BLUE (2007)</h4>
-Is collaborative performance with choreographer, Orissi and Chauu dancer Shagun Bhutani and her students from MADHYAM. In this performance the child Krishnas are played by little dancers and all the demons are giant puppets of 10-25 feet!
+<h3>THE MAGIC BLUE (2007)</h3>
 
-Magic blue tells the story of the childhood of the Blue God Krishna, which is full of great adventures and  enchantment.  Krishna fights off many demons in the shape of the giant  serpent KALIA, the cloud monster, AGHASUR, who changes shape all the time, BAKASUR, the great ferocious stork BAKASUR and of course at the end Krishna`s arch enemy and notorious dictator ,his own uncle KAMSA. 
+<h4>Is collaborative performance with choreographer, Orissi and Chauu dancer Shagun Bhutani and her students from MADHYAM. In this performance the child Krishnas are played by little dancers and all the demons are giant puppets of 10-25 feet!
 
-<h4>KASMIR PROJECT (2006)</h4>
+Magic blue tells the story of the childhood of the Blue God Krishna, which is full of great adventures and  enchantment.  Krishna fights off many demons in the shape of the giant  serpent KALIA, the cloud monster, AGHASUR, who changes shape all the time, BAKASUR, the great ferocious stork BAKASUR and of course at the end Krishna`s arch enemy and notorious dictator ,his own uncle KAMSA.</h4> 
 
-Created as a result of interactive trauma therapy workshops with masks and puppets with women in Kashmir. The production uses masks, poetry, photographs and puppets to look at present day Kashmir. This project has been funded by WISCOMP as a part of the WISCOMP Fellowship of Peace (2005).
+<h3>KASMIR PROJECT (2006)</h3>
 
-The Kashmir Project traces the journey of the 14th Century Kashmiri sufi poetess Lal-Ded re-born in the Kashmir of today and retracing her steps through the landscape of Kashmir. But this time she hears blasts, meets army men and militants, hears the voices of women who are mothers ,wives, sisters and daughters of Kashmir living in a war zone for the last fifteen years, sees their recurring nightmares and then finds again what she had learnt 600 years ago, hope,tolerance and love , that which saved her and saves the women of the valley today.
+<h4>Created as a result of interactive trauma therapy workshops with masks and puppets with women in Kashmir. The production uses masks, poetry, photographs and puppets to look at present day Kashmir. This project has been funded by WISCOMP as a part of the WISCOMP Fellowship of Peace (2005).
 
-<h4>CELEBRATION OF LIFE (2004)</h4>
-For World AIDS Day Celebrated by Delhi Public Society involving children from 10 DPS Schools and positive people from DNPP.
+The Kashmir Project traces the journey of the 14th Century Kashmiri sufi poetess Lal-Ded re-born in the Kashmir of today and retracing her steps through the landscape of Kashmir. But this time she hears blasts, meets army men and militants, hears the voices of women who are mothers ,wives, sisters and daughters of Kashmir living in a war zone for the last fifteen years, sees their recurring nightmares and then finds again what she had learnt 600 years ago, hope,tolerance and love , that which saved her and saves the women of the valley today.</h4> 
+
+<h3>CELEBRATION OF LIFE (2004)</h3>
+
+<h4>For World AIDS Day Celebrated by Delhi Public Society involving children from 10 DPS Schools and positive people from DNPP.
 
 Was commissioned by the Delhi Public Society as a way of bringing the participation of young people in the area of HIV/AIDS. It was taken by a step further by joining hands with the Delhi Network of Positive People (DNP +) and turning it into a collaboration between people living with HIV and young people from schools of Delhi cemented by the medium of puppetry.
 
-Celebrations of life starts with the Big Bang , the creation of the universe and the  elements  Earth, Water ,Fire  which led to the creation of life on earth. It looks at the live and the love to two primeval beings born from the earth. But this love is doomed because of HIV. This virus turns into not a medical condition but a saga of stigma, discrimination and separation. The script is actually voices of 4 individuals living with HIV, their experiences of discrimination and rejection by loved ones and finally their finding of a reason not just to go on but to celebrate life.
+Celebrations of life starts with the Big Bang , the creation of the universe and the  elements  Earth, Water ,Fire  which led to the creation of life on earth. It looks at the live and the love to two primeval beings born from the earth. But this love is doomed because of HIV. This virus turns into not a medical condition but a saga of stigma, discrimination and separation. The script is actually voices of 4 individuals living with HIV, their experiences of discrimination and rejection by loved ones and finally their finding of a reason not just to go on but to celebrate life.</h4>
 
-<h4>VIRUS KA TAMASHAH</h4>
+<h3>VIRUS KA TAMASHAH</h3>
 
-Was commissioned by the Delhi Public Society as a way of bringing the participation of young people in the area of HIV/AIDS. The performance traveled to several of the DPS schools as a part of the “Jagrit” programme aimed at educating young people about HIV and also initiating a dialogue about high risk behavior. The main challenge during this performance was to talk about HIV/Aids in a way that would both entertain and also lead to an openness towards the theme among school children.
+<h4>Was commissioned by the Delhi Public Society as a way of bringing the participation of young people in the area of HIV/AIDS. The performance traveled to several of the DPS schools as a part of the “Jagrit” programme aimed at educating young people about HIV and also initiating a dialogue about high risk behavior. The main challenge during this performance was to talk about HIV/Aids in a way that would both entertain and also lead to an openness towards the theme among school children.
 
-Virus the Tamashsa is like a circus and a razzmatazz  Bollywood film rolled into one. It is literally a ride taken with the virus.The performance begins with the HIV positive protagonist being chastised and segregated by his community. The HIV Virus represented by the  “madari” or ringmaster intervenes, he tempts the members of the community in different situations to behave Irresponsibly. The first one by having unprotected sex with multiple partners, the second by using pre-used syringes, the third by using untested blood and treating a pregnant positive mother not medically but by a god-man. Finally he takes the audience into the human body and gives us a glimpse into the  effect the virus has on the WBCs and consequently the immune system. Finally he turns into an all powerful creature. In the end the main protagonist resists the virus by seeking help from the community of the audience asking them to stop discrimination and instead acting responsibly, saving themselves from infection.
+Virus the Tamashsa is like a circus and a razzmatazz  Bollywood film rolled into one. It is literally a ride taken with the virus.The performance begins with the HIV positive protagonist being chastised and segregated by his community. The HIV Virus represented by the  “madari” or ringmaster intervenes, he tempts the members of the community in different situations to behave Irresponsibly. The first one by having unprotected sex with multiple partners, the second by using pre-used syringes, the third by using untested blood and treating a pregnant positive mother not medically but by a god-man. Finally he takes the audience into the human body and gives us a glimpse into the  effect the virus has on the WBCs and consequently the immune system. Finally he turns into an all powerful creature. In the end the main protagonist resists the virus by seeking help from the community of the audience asking them to stop discrimination and instead acting responsibly, saving themselves from infection.</h4>
 
-<br>
-<h3>International Participations</h3>
-<br>
-2011 &mdash; Figuratheatre Festival Basel- Bollywood Bandwagon
-
-2010 &mdash; Rote Fabrik, Zurich and Tojo Theatre, Bern – Bollywood Bandwagon on tour
-
-2009 &mdash; LINZ09, Linz, Austria Bollywood Bandwagon and About Ram on tour
-
-2009 &mdash; UNIMA festival, Mistelbach, Austria – About Ram 
-
-2008 &mdash; Buxton, UK – Performed Durga at the Buxton Festival
-
-2007 &mdash; Holon, Isreal- Performed About Ram at the 12th International Puppet and Film Festival, Holon
-
-2007 &mdash; Tehran, Iran - International Womens Theatre Festival, Performed Durga.
-
-2007 &mdash; Kaoushing, Taiwan – Kaoushing International Puppet Theatre Festival 2-7, Presented About Ram.
 
