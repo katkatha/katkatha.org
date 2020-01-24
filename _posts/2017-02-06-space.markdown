@@ -12,16 +12,13 @@ categories: articles
 {% include coverimage.html url="/images/studio/painting.JPG" caption="Our studio getting a make-over in 2016." %} 
 
 These are the programs the space is currently supporting or planning to support
-
 <br>
 
  <h3>Mentorship Program -</h3> 
- 
  <br>
  
  <h4>In December 2017 we kick start our artists mentorship program with the mentoring of young directors from across India by the Director of Helios Theatre in Hamm, Germany, Barbara Kolling. Barbara will mentor 5 young Indian directors in creating 5 new performances using material only.</h4>
- 
- <br>
+<br>
 
  <h3>Support to new puppeteers -</h3> 
 
@@ -32,7 +29,6 @@ These are the programs the space is currently supporting or planning to support
  <br>
 
  <h3>Shadow Internships -</h3>
- 
  <br>
  
 <h4>Specially created for those who wish to learn puppet theatre. In the absence of a puppet school in India this program helps young puppeteers, directors and arts managers to watch puppeteers at work, follow the creation of a production, a tour or the day to day running of a company. We have received over 60 Indian and International Interns for this program so far.</h4>
@@ -40,7 +36,6 @@ These are the programs the space is currently supporting or planning to support
 <br>
 
  <h3>School Program -</h3>
- 
  <br>
  
 <h4>On special days our space turns into a Museum cum theater for children. Children come into our space to watch a puppet show, make puppets with the company members and then to walk through a sensorial exhibition called the Magic Cupboard. This is a Cupboard with 20 drawers, doors, sliders, each of which offers a special sensorial experience. Children touch, smell and taste the cupboards, find a miniature snoring man in a miniature drawer in a miniature bedroom, can peep through key holes to find stories, become light designers in a miniature theatre. One of the doors leads into a labyrinth full of puppets and leads out onto a walk where their bare feet experience different textures. This year we hope to invite different artists to design the cupboards to make it a constantly changing experience for children. This program hopes to run at least 4 times a month!</h4>
@@ -48,7 +43,6 @@ These are the programs the space is currently supporting or planning to support
 <br>
 
 <h3>Puppets for teachers -</h3>
-
 <br>
 
 <h4>For 18 years we have tried to convince teachers to use puppets in the classroom to teach subjects, not only as entertainment. We have an annual seminar for teachers where they explore hands on techniques of using puppets in the class. Each one of them receives a Do-it-yourself kit which includes history lessons with shadow puppets, storytelling with paper.</h4>
@@ -56,7 +50,6 @@ These are the programs the space is currently supporting or planning to support
 <br>
 
 <h3>Community puppet program -</h3> 
-
 <br>
 
 <h4>Since 2016 we began a puppet program for our neighbourhood. We are located on the fringes of Delhi where we have a mix of the urban poor, migrant labour, a large part of the cities labour force.</h4>
