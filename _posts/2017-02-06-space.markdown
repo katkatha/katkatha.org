@@ -63,9 +63,9 @@ These are the programs the space is currently supporting or planning to support
 
 <br>
 
-<h4>-	**The Sunday Puppets Club** - This is a 2 hour children’s program by artists at our studio for children of the neighbourhood. Here they learn to make puppets, tell stories, to paint, sculpt and move. They also have a small library of books and now we are building our animation library.</h4>
+<h4>-	The Sunday Puppets Club - This is a 2 hour children’s program by artists at our studio for children of the neighbourhood. Here they learn to make puppets, tell stories, to paint, sculpt and move. They also have a small library of books and now we are building our animation library.</h4>
 
-<h4>-	**The window to puppet theatre** - Our rehearsal room window overlooks the alleyway or thoroughfare used by the entire community. When we are rehearsing we leave the window open and often people stop to watch. We liked this curiosity very much and so we are now building a peep show in our window. People can actually peep in and see puppets, shadows, miniatures or something else.</h4> 
+<h4>-	The window to puppet theatre - Our rehearsal room window overlooks the alleyway or thoroughfare used by the entire community. When we are rehearsing we leave the window open and often people stop to watch. We liked this curiosity very much and so we are now building a peep show in our window. People can actually peep in and see puppets, shadows, miniatures or something else.</h4> 
 
 
 {% include imageright.html url="/images/studio/02.jpg" caption="The main rehearsal and performance area." %} 
