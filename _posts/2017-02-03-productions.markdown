@@ -27,8 +27,7 @@ Watch <i>Bollywood Bandwagon</i> <a href="https://www.youtube.com/watch?v=06Q7xp
 <h3>THE LITTLE BLUE PLANET (2008)</h3>
 
 <h4>Commissioned by the Climate Change Project-India in 2008 this performance was created to take the  complex concept of Climate Change and Global Warming to little children. This show has been performed over 100 times across India and in Russia. 
-<br>
-      
+
 The show is a journey of a little blue planet earth who in the show is literally a little child, called Erthu, from birth to early childhood, playing with clay to make birds, animals and forests. And finally the little Earthu makes a human. The human starts to cut trees, makes factories, cities. The little blue planet starts to fall sick, choke and suddenly gets transformed into a dying old man.</h4>
 
 Watch <i>Little Blue Planet</i> <a href="https://www.youtube.com/watch?v=rgQWl_Fuf18" target="_blank">here</a>.
