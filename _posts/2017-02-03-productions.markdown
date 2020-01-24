@@ -7,11 +7,11 @@ categories: articles
 
 <h1>Productions</h1>
 
-<h4>ANECDOTES AND ALLEGORIES (2010) by Gulbadan Begum</h4>
+<h2>ANECDOTES AND ALLEGORIES (2010) by Gulbadan Begum</h2>
 
-Created with support from the India Foundation for the Arts, Bangalore, <i>Anecdotes and Allegories</i> is a historical docu-drama with  Puppets. 
+<h3>Created with support from the India Foundation for the Arts, Bangalore, <i>Anecdotes and Allegories</i> is a historical docu-drama with  Puppets. 
 
-The show is based on the autobiography of three Mughal Emperors: Babur, Humayun, and Akbar written by Babur’s daughter Gulbadan Begum. This show uses miniature puppets, spy cameras, shadow puppets, and paper puppets and follows the journey of the early Mughal emperors from Fargana to Delhi and Agra
+The show is based on the autobiography of three Mughal Emperors: Babur, Humayun, and Akbar written by Babur’s daughter Gulbadan Begum. This show uses miniature puppets, spy cameras, shadow puppets, and paper puppets and follows the journey of the early Mughal emperors from Fargana to Delhi and Agra</h3>
 
 Watch <i>Anecdotes and Allegories</i> <a href="https://www.youtube.com/watch?v=PsVroODy0Bs" target="_blank">here</a> or <a href="https://www.youtube.com/watch?v=GHn9QbvNXiI" target="_blank">here</a>.
 
