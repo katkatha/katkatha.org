@@ -38,4 +38,8 @@ If the intern travels with Katkatha on a project as a collaborator, Katkatha wil
 
 Internship applicants need not have any experience in puppetry and all applications will be equally considered.</h4>
 
+<br>
+
 {% include splitimage.html url1="/images/training/master02.jpg" url2="/images/training/master01.jpg" caption="We have a small room available on studio property for visiting artists." %} 
+
+<br>
