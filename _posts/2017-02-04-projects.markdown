@@ -76,8 +76,6 @@ International Projects - Barbara Kolling Mentorship (2017)
 
 International Projects - Collaboration with Setagaya Silk for Bamboo Princess (2018-19). Japan Foundation. 
 
-<<<<<<< HEAD
 International Projects - Rajasthan water project (2018)- University of West england, Bristol UK. 
-=======
-International Projects - Rajasthan water project (2018)- University of West england, Bristol UK. 
->>>>>>> 9a7019f3a10e01045cff8ae6db49776be16f62a0
+
+
