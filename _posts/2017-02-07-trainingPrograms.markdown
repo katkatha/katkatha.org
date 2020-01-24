@@ -27,9 +27,12 @@ categories: articles
 
 <h2>Annual Intensive Training Projects</h2>
 
-<h4>- Intensive Bunraku Workshop (2016) 
+<h4>- Intensive Bunraku Workshop (2016)
+ <br>
 - Intensive Shadow Workshop (2017) 
+ <br>
 - Intensive Table top and Storytelling with puppets workshop</h4>
+<br>
 
  {% include image.html url="/images/training/Sep2019Workshop.jpeg" caption="workshop on Intensive Table top and Storytelling with puppets." %}
  
