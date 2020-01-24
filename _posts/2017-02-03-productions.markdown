@@ -15,19 +15,19 @@ The show is based on the autobiography of three Mughal Emperors: Babur, Humayun,
 
 Watch <i>Anecdotes and Allegories</i> <a href="https://www.youtube.com/watch?v=PsVroODy0Bs" target="_blank">here</a> or <a href="https://www.youtube.com/watch?v=GHn9QbvNXiI" target="_blank">here</a>.
 
-<h4>BOLLYWOOD BANDWAGON (2009)</h4>
+<h3>BOLLYWOOD BANDWAGON (2009)</h3>
 
-The show was created with support from LINZ09, Annual EU Cultural Capital for 2009 and premiered at Linz, Austria in September 2009. The show has since toured to Zurich, Berne, and Basel in Switzerland. 
+<h4>The show was created with support from LINZ09, Annual EU Cultural Capital for 2009 and premiered at Linz, Austria in September 2009. The show has since toured to Zurich, Berne, and Basel in Switzerland. 
 
-Having made a side door entry into the world of India’s biggest obsession, <i>Bollywood Bandwagon</i> stands on the edge of a film set watching the goings-on without any coloured glasses. But being a true-blue voyeur, gradually the play makes its way into the more intimate spaces of the industry&mdash;some secret, some forgotten and some taken for granted. Using live feed and humanettes this show hopes to alter the way Bollywood films are watched.
+Having made a side door entry into the world of India’s biggest obsession, <i>Bollywood Bandwagon</i> stands on the edge of a film set watching the goings-on without any coloured glasses. But being a true-blue voyeur, gradually the play makes its way into the more intimate spaces of the industry&mdash;some secret, some forgotten and some taken for granted. Using live feed and humanettes this show hopes to alter the way Bollywood films are watched.</h4>
 
 Watch <i>Bollywood Bandwagon</i> <a href="https://www.youtube.com/watch?v=06Q7xpczN4E" target="_blank">here</a>.
       
-<h4>THE LITTLE BLUE PLANET (2008)</h4>
+<h3>THE LITTLE BLUE PLANET (2008)</h3>
 
-Commissioned by the Climate Change Project-India in 2008 this performance was created to take the  complex concept of Climate Change and Global Warming to little children. This show has been performed over 100 times across India and in Russia. 
+<h4>Commissioned by the Climate Change Project-India in 2008 this performance was created to take the  complex concept of Climate Change and Global Warming to little children. This show has been performed over 100 times across India and in Russia. 
 
-The show is a journey of a little blue planet earth who in the show is literally a little child, called Erthu, from birth to early childhood, playing with clay to make birds, animals and forests. And finally the little Earthu makes a human. The human starts to cut trees, makes factories, cities. The little blue planet starts to fall sick, choke and suddenly gets transformed into a dying old man. 
+The show is a journey of a little blue planet earth who in the show is literally a little child, called Erthu, from birth to early childhood, playing with clay to make birds, animals and forests. And finally the little Earthu makes a human. The human starts to cut trees, makes factories, cities. The little blue planet starts to fall sick, choke and suddenly gets transformed into a dying old man.</h4>
 
 Watch <i>Little Blue Planet</i> <a href="https://www.youtube.com/watch?v=rgQWl_Fuf18" target="_blank">here</a>.
 
