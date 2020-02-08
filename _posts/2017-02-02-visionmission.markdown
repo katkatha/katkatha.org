@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Vission/Mission"
-date:   2017-02-06
+date:   2017-02-02
 categories: articles
 ---
- 
-{% include coverimage.html url="/images/studio/vission.JPG" %} 
-
 
 <br>
 
