@@ -5,8 +5,7 @@ date:   2017-02-03
 categories: articles
 ---
 
-{% include coverimage.html url="/images/studio/Productions.jpg" %} 
-
+{% include coverimage.html url="/images/studio/Productions.JPG" %} 
 
 <h1>Productions</h1>
 
