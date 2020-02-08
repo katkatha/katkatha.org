@@ -7,7 +7,7 @@ categories: articles
 
 <br>
 
-{% include coverimage.html url="/images/studio/vission.JPG" caption="Our studio getting a make-over in 2016." %} 
+{% include coverimage.html url="/images/studio/vission.JPG" %} 
 
  <h3>Vission -</h3> 
  <br>
