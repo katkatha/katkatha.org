@@ -38,7 +38,10 @@ Watch <i>Little Blue Planet</i> <a href="https://www.youtube.com/watch?v=rgQWl_F
 
 <h3>ABOUT RAM (2006)</h3>
 
-<h4>About Ram was created with a performance grant from the India Foundation for the Arts and in collaboration with animator Vishal Dar. It is an experimental theatrical piece using excerpts from the Bhavbhuti Ramayana and told through animation, projected images, dance, masks and puppets. 
+<h4>About Ram was created with a performance grant from the India Foundation for the Arts and in collaboration with animator Vishal Dar. It is an experimental theatrical piece using excerpts from the Bhavbhuti Ramayana and told through animation, projected images, dance, masks and puppets.
+
+{% include coverimage.html url="/images/studio/about ram.jpg" %} 
+
 <br>
       
 As the name suggests, the performance is about Ram, the prince who is sent on a long journey far away from his home when he is exiled by his father along with his wife Sita and brother Lakshman. Sita is kidnapped by Ravan the king of Lanka and kept prisoner. As Ram sits by the ocean looking at Lanka across its vastness his life flashes by, he feels powerless and dejected as he longs to fly across the ocean to his beloved Sita. The puppeteers help him by projecting his desires into the mask of the super hero Hanuman which attaches itself to Rams face, at one turning him into a super powerful simian who leaps across the ocean and reaches Sita.
