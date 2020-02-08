@@ -5,8 +5,6 @@ date:   2017-02-02
 categories: articles
 ---
 
-{% include coverimage.html url="/images/studio/vission.JPG" %} 
-
 <h1>Vission</h1> 
  
 <h4>To promote puppet theatre in all its forms to audiences in festivals, educational institutions, at public spaces and communities across India and the world, to train professional puppeteers and create professionalism within puppet theatre practice in India.</h4>
