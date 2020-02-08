@@ -54,9 +54,7 @@ Watch <i>About Ram</i> <a href="https://www.youtube.com/watch?v=r6AaVMjM9jA" tar
 life in progress or is it progress?</h4>
 
 <h3>MAHABHARATA</h3>
-
 {% include coverimage.html url="/images/studio/mahabharta.jpg" %} 
-
 <h4>Mahabharata explores the inner dilemma and back stories of 14 characters in the play. Each character in the Mahabharata is an archetype whose single minded and unquestioning loyalty to one belief leads to the inevitable conflict. Was there ever a moment when each of these human beings by making a choice, the choice of letting go, could have averted the war?</h4>
 
 Watch <i>Mahabharata</i> <a href="https://www.youtube.com/watch?v=GKa8JQHnlvQ" target="_blank">here</a>.
