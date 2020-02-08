@@ -11,7 +11,9 @@ categories: articles
 
 <br>
  
+ 
 {% include coverimage.html url="/images/studio/painting.JPG" caption="Our studio getting a make-over in 2016." %} 
+
 
 <br>
 
