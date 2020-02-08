@@ -5,6 +5,8 @@ date:   2017-02-03
 categories: articles
 ---
 
+<br>
+
 {% include coverimage.html url="/images/studio/Production.jpg" %}
 
 <h1>Productions</h1>
