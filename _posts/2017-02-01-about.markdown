@@ -5,6 +5,10 @@ date:   2017-02-01
 categories: articles
 ---
 
+<br>
+
+{% include coverimage.html url="/images/studio/about.jpg" %} 
+
 <h1>About</h1>
 
 <h4>For us puppets are not dolls with strings. At the centre of all the work in Katkatha is the inanimate material.
