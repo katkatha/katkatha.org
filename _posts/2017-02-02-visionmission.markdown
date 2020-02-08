@@ -15,7 +15,3 @@ categories: articles
  <h1>Mission</h1> 
  
 <h4>Creation of performances using new techniques of puppet animation and design, collaborating with other artists and fields for touring across India and the world evolving puppet scripts and dramaturgy in puppet performances, training children, youth and adults in puppet theatre. To create awareness and curiosity about the form and to expand audiences. Training professional puppeteers who will push the bar of the form through workshops, masterclasses, mentor projects and internships. Seeking a dialogue between traditional puppet theatre and contemporary practices. Looking at questions of collaborations between traditional form and modern expression. Creating a body of documentation of practice and thought within puppet theatre. Seeking relevance of puppet theatre outside the "Theatre" space by engaging with audiences through visual arts exhibitions, in museums, in village communities, at the Katkatha studio neighbourhood, urban communities, sites of mass movements, local schools etc.</h4>
- 
- <br>
-
- 
