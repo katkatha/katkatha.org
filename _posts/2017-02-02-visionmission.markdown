@@ -4,6 +4,9 @@ title:  "Vission/Mission"
 date:   2017-02-02
 categories: articles
 ---
+<br>
+
+{% include coverimage.html url="/images/studio/vission.JPG" %} 
 
 <h1>Vission</h1> 
  
