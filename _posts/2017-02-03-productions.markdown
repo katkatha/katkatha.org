@@ -7,7 +7,7 @@ categories: articles
 
 <br>
 
-{% include coverimage.html url="/images/studio/Production.jpg" %}
+{% include coverimage.html url="/images/studio/Production.jpeg" %}
 
 <h1>Productions</h1>
 
