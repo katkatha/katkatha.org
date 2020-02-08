@@ -5,8 +5,6 @@ date:   2017-02-03
 categories: articles
 ---
 
-{% include coverimage.html url="/images/studio/Productions.JPG" %} 
-
 <h1>Productions</h1>
 
 <h3>ANECDOTES AND ALLEGORIES (2010) by Gulbadan Begum</h3>
