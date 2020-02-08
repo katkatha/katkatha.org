@@ -4,8 +4,7 @@ title:  "Productions"
 date:   2017-02-03
 categories: articles
 ---
-
-{% include coverimage.html url="/images/studio/Productions.JPG" %} 
+{% include coverimage.html url="/images/studio/Productions.jpg" %} 
 
 <h1>Productions</h1>
 
